@@ -1,0 +1,11 @@
+Participant ID,Gender,Country they belong to,Study Group,Group
+P1,Male,India,Time Limit,Experimental
+P2,Male,India,No Time Limit,Control
+P3,Female,Taiwan,No Time Limit,Control
+P4,Male,Pakistan,No Time Limit,Control
+P5,Female,China,Time Limit,Experimental
+P6,Female,USA,Time Limit,Experimental
+P7,Female,USA,No Time Limit,Control
+P8,Male,Pakistan,Time Limit,Experimental
+P9,Male,USA,Time Limit,Experimental
+P10,Female,USA,No Time Limit,Control
